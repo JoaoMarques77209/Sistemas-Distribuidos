@@ -1,0 +1,28 @@
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.exe
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.deps.json
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.dll
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.pdb
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.dll
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\obj\Debug\net7.0\refint\ConsoleApp4.dll
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.pdb
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\ConsoleApp4\obj\Debug\net7.0\ref\ConsoleApp4.dll
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\bin\Debug\net7.0\ConsoleApp4.exe
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\bin\Debug\net7.0\ConsoleApp4.deps.json
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\bin\Debug\net7.0\ConsoleApp4.runtimeconfig.json
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\bin\Debug\net7.0\ConsoleApp4.dll
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\bin\Debug\net7.0\ConsoleApp4.pdb
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\obj\Debug\net7.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\obj\Debug\net7.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\obj\Debug\net7.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\obj\Debug\net7.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\obj\Debug\net7.0\ConsoleApp4.dll
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\obj\Debug\net7.0\refint\ConsoleApp4.dll
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\obj\Debug\net7.0\ConsoleApp4.pdb
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\obj\Debug\net7.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\asus\Desktop\Uni\3ºano-2ºsemestre\Sistemas Distribuidos\TP1\Cliente\obj\Debug\net7.0\ref\ConsoleApp4.dll
