@@ -1,0 +1,6 @@
+TarefaID,Descricao,Estado,ClienteID;Descricao;Estado;ClienteID
+6; Ronda de inspecao na area residencial de Santa Maria;Concluido;0
+7;Intervencao de resgate em acidente de transito na Avenida Principal;Concluido;0
+8;Verificacao de extintores no Centro Comunitario;Concluido;0
+9; Inspecao de medidas de segurança contra incendios no Corgo;Concluido;0
+10;Treino de evacuaçao em escola primaria;Concluido;0

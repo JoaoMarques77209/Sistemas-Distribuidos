@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\Uni\\3ºano-2ºsemestre\\Sistemas Distribuidos\\TP1\\Servidor\\Aula1.csproj",
-      "projectName": "Aula1",
-      "projectPath": "C:\\Users\\asus\\Desktop\\Uni\\3ºano-2ºsemestre\\Sistemas Distribuidos\\TP1\\Servidor\\Aula1.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\Uni\\3ºano-2ºsemestre\\Sistemas Distribuidos\\TP1\\Servidor\\Servidor.csproj",
+      "projectName": "Servidor",
+      "projectPath": "C:\\Users\\asus\\Desktop\\Uni\\3ºano-2ºsemestre\\Sistemas Distribuidos\\TP1\\Servidor\\Servidor.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\asus\\Desktop\\Uni\\3ºano-2ºsemestre\\Sistemas Distribuidos\\TP1\\Servidor\\obj\\",
       "projectStyle": "PackageReference",

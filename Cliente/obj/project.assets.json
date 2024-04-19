@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\Uni\\3ºano-2ºsemestre\\Sistemas Distribuidos\\TP1\\Cliente\\ConsoleApp4.csproj",
-      "projectName": "ConsoleApp4",
-      "projectPath": "C:\\Users\\asus\\Desktop\\Uni\\3ºano-2ºsemestre\\Sistemas Distribuidos\\TP1\\Cliente\\ConsoleApp4.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\Uni\\3ºano-2ºsemestre\\Sistemas Distribuidos\\TP1\\Cliente\\Cliente.csproj",
+      "projectName": "Cliente",
+      "projectPath": "C:\\Users\\asus\\Desktop\\Uni\\3ºano-2ºsemestre\\Sistemas Distribuidos\\TP1\\Cliente\\Cliente.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\asus\\Desktop\\Uni\\3ºano-2ºsemestre\\Sistemas Distribuidos\\TP1\\Cliente\\obj\\",
       "projectStyle": "PackageReference",
